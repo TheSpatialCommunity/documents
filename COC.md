@@ -6,9 +6,9 @@ Date Posted: 7/26/2016, Last Updated: 1/26/2017
 _Version 1.06_
 
 ## Creating a Culture of Innovation
-We aspire to create a culture where people work joyfully, communicate openly about things that matter, and collaborate on projects. We would like our community to reflect the diversity of the wider community of geospatial and IT professionals. We want to foster diversity of all kinds—not just the classes protected in law. Diversity fosters innovation. Diverse teams are creative teams. We need a diversity of perspective to create solutions for the real and urgent challenges we face.
+We aspire to create a culture where people work joyfully, communicate openly about things that matter, and collaborate on projects. We would like our community to reflect the diversity of the wider community of geospatial and IT professionals. We want to foster diversity of all kinds-not just the classes protected in law. Diversity fosters innovation. Diverse teams are creative teams. We need a diversity of perspective to create solutions for the real and urgent challenges we face.
 
-This is the Spatial Community’s Code of Conduct. We expect everyone we work with to adhere to the [GSA Anti-harassment Policy](http://www.gsa.gov/portal/directive/d0/content/512516). Even though most community members and participants will not be employed by the General Services Administration, we feel this to be an exemplar of anti-harassment policy.
+This is the Spatial Community's Code of Conduct. We expect everyone we work with to adhere to the [GSA Anti-harassment Policy](http://www.gsa.gov/portal/directive/d0/content/512516). Even though most community members and participants will not be employed by the General Services Administration, we feel this to be an exemplar of anti-harassment policy.
 
 We expect everyone who joins our Slack channel to follow this code of conduct and the laws and policies mentioned above. This applies to all of our methods of communication: the #general and #random channels, all topical channels, uploaded files, and private messages.
 
@@ -37,10 +37,10 @@ The Spatial Community is a different kind of place. There is a mix of hobbyists 
 
 ## New channel creation
 
-We want to support the wide range of topics people might want to come here to discuss, but it’s hard to balance that support with making The Spatial Community approachable. New channels can be created by anybody, but should generally only be created when a critical mass exists around a topic. Some short term topics like #esriuc_backchannel or #foss4g may warrant a temporary channel and will be created while timely and then retired.
+We want to support the wide range of topics people might want to come here to discuss, but it's hard to balance that support with making The Spatial Community approachable. New channels can be created by anybody, but should generally only be created when a critical mass exists around a topic. Some short term topics like #esriuc_backchannel or #foss4g may warrant a temporary channel and will be created while timely and then retired.
 
 Over time, if a channel becomes quiet, the admins may archive the channel.
-When users create a channel they are designated as the moderator for that channel. As such, they are responsible for the channel and ensuring that it meets the guidelines put forth in this document. Should channel moderators have issues, they are encouraged to contact the Admin team, see Reporting below.
+When users create a channel they are designated as the moderator for that channel. As such, they are responsible for the channel and ensuring that it meets the guidelines put forth in this document. Should channel moderators have issues, they are encouraged to contact the Admin team, see **Reporting** below.
 
 ----
 
@@ -53,7 +53,7 @@ The Spatial Community is currently on the free Slack tier with no plan to move t
 
 Create boundaries to your own behavior and consider how you can create safe space that helps prevent unacceptable behavior by others. We do not seek to list all cases of unacceptable behavior, but provide examples to help guide our community in thinking through how to respond when we experience these types of behavior, whether directed at ourselves or others.
 
-If you are unsure if something is appropriate behavior, it probably isn’t. Each person you interact with can define where that line is for them. Impact matters more than intent. Ensuring that your behavior does not have a negative impact is your responsibility. Problems happen when we assume that our way of thinking or behaving is the norm or ok with everyone. This is particularly problematic when we are in a position of power or privilege.
+If you are unsure if something is appropriate behavior, it probably isn't. Each person you interact with can define where that line is for them. Impact matters more than intent. Ensuring that your behavior does not have a negative impact is your responsibility. Problems happen when we assume that our way of thinking or behaving is the norm or ok with everyone. This is particularly problematic when we are in a position of power or privilege.
 
 ### Here are a few examples of unacceptable behavior:
 
@@ -61,7 +61,7 @@ If you are unsure if something is appropriate behavior, it probably isn’t. Eac
 * Touching people without their affirmative consent.
 * Sustained and negative disruption of meetings or talks.
 * Patronizing language or behavior.
-* Aggressive and micro-aggressive behavior, such as unconstructive criticism, providing corrections that do not improve the conversation (sometimes referred to as "well actually"s), repeatedly interrupting or talking over someone else, feigning surprise at someone’s lack of knowledge or awareness about a topic, or subtle prejudice (for example, comments like “That’s so easy my grandmother could do it.”).
+* Aggressive and micro-aggressive behavior, such as unconstructive criticism, providing corrections that do not improve the conversation (sometimes referred to as "well actually"s), repeatedly interrupting or talking over someone else, feigning surprise at someone's lack of knowledge or awareness about a topic, or subtle prejudice (for example, comments like "That's so easy my grandmother could do it.").
 * Referring to people in a way that misidentifies their gender and/or rejects the validity of their gender identity; for instance by using incorrect pronouns or forms of address (misgendering).
 * Retaliating against anyone who files a formal complaint that someone has violated these codes or laws.
 
