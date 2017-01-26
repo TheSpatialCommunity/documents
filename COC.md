@@ -76,29 +76,11 @@ To get in touch with the admin team, you can send a Direct Message within Slack 
 Outside of slack, you can email thespatialcommunity@gmail.com; individual admin contact information is also listed below. 
 
 ### Current Admins:
-* **Julien Jacques** (owner)
-    * Slack: @julien
-    * Twitter: [@julienjacques](https://twitter.com/julienjacques)
-    * GitHub: [juljacques](https://github.com/juljacques)
-    * Email: julien@maptiks.com
-    * Cell: 604-339-9424
-* **Will Caddell** (admin)
-    * Slack: @willcadell
-    * Twitter: [@geo_will](https://twitter.com/geo_will)
-    * GitHub: [willcadell](https://github.com/willcadell)
-    * Email: will@sparkgeo.com
-    * Cell: 250-981-69646
 * **Daniel Smith** (admin)
     * Slack: @robodonut
     * Twitter: [@robodonut](https://twitter.com/robodonut)
     * GitHub: [robodonut](https://github.com/robodonut)
     * Email: danielelijahsmith@gmail.com
-* **Stephen Smith** (admin)
-    * Slack: @themapsmith
-    * Twitter: [@TheMapSmith](https://twitter.com/TheMapSmith)
-    * GitHub: [TheMapSmith](https://github.com/themapsmith)
-    * Email: stephen@mapsmith.net
-    * Cell: 512-587-8671
 * **Kyle Morgan** (admin)
     * Slack: @gisdev-km
     * Twitter: [@gisdev_km](https://twitter.com/gisdev_km)
