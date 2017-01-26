@@ -1,9 +1,9 @@
 # The Spatial Community - Code of Conduct
 
 The Spatial Community
-Date Posted: 7/26/2016, Last Updated: 8/08/2016
+Date Posted: 7/26/2016, Last Updated: 1/26/2017
 
-_Version 1.05_
+_Version 1.06_
 
 ## Creating a Culture of Innovation
 We aspire to create a culture where people work joyfully, communicate openly about things that matter, and collaborate on projects. We would like our community to reflect the diversity of the wider community of geospatial and IT professionals. We want to foster diversity of all kinds—not just the classes protected in law. Diversity fosters innovation. Diverse teams are creative teams. We need a diversity of perspective to create solutions for the real and urgent challenges we face.
