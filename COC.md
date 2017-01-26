@@ -24,7 +24,7 @@ Consider what you can do to encourage and support others. Make room for quieter 
 The Spatial Community is a different kind of place. There is a mix of hobbyists and professionals, newbies and pros, lurkers and sharers, vendors and consumers. To keep the environment open and honest, please adhere to the following guidelines:
 
 ### Hard and fast rules
-* If you are affiliated with a company, be sure to include that in your profile in the “What I Do” section.
+* If you are affiliated with a company, and will be posting primarily as a representative of said company, be sure to include that in your profile in the "What I Do" section.
 * The broadcast messages @channel, @here, @group, or @everyone are intended for important issues only and should be used sparingly. To know the difference, please read more [here](https://get.slack.help/hc/en-us/articles/202009646-Making-announcements).
 * Regarding commercial promotion of yourself or your company, this is not a marketing forum or a source for new customers. Feel free to share your projects and events but refrain from using it from a sole marketing purpose.  The admins reserve the right to moderate your posts if it is abused.
 * The Admin team will not use your email address for marketing or promotion. Occasional community-related messages may be sent to inform you of events or other important matters. Your email will not be sold to or used by 3rd parties. Please note that your e-mail address is viewable by other members when they view your profile.
