@@ -68,7 +68,12 @@ If you are unsure if something is appropriate behavior, it probably isn’t. Eac
 ----
 
 ## Reporting
-This Code of Conduct is a work in progress. A formal reporting process has not yet been established. In the meantime, if you are being harassed in The Spatial Community, please speak to the community organizer, owner, or admin. Admins are required to include full contact details in their profile so that you may reach them in multiple ways.
+
+If you are being harassed, or witness any violation of this Code of Conduct, please let an admin know.
+
+To get in touch with the admin team, you can send a Direct Message within Slack to any/all of the Current Admins (listed below). You can also use the slack command `/call_admin <optional message here>` from any channel to send an immediate notification to the entire admin team. This command is private (visible to only you and the admin team).
+
+Outside of slack, you can email thespatialcommunity@gmail.com; individual admin contact information is also listed below. 
 
 ### Current Admins:
 * **Julien Jacques** (owner)
