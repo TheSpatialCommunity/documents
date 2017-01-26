@@ -45,21 +45,7 @@ When users create a channel they are designated as the moderator for that channe
 ----
 
 ## Message limit and archives
-The Spatial Community is currently on the free Slack tier with no plan to move to a paid team. This means that we are limited to 10,000 messages total, with private messages included in that count. <del>As such, we have deployed a service via @archivebot, a ‘Public chat archive for your Slack community’, to help maintain the history of various channels. When @archivebot is added to a channel the message thread is automatically replicated at [http://gisdevs.slackarchive.io/](http://gisdevs.slackarchive.io/). If you feel that @archivebot should archive a channel, feel free to ask the moderator of your channel to invite them.  An example of the following channels currently have @archivebot as a member are are being publicly archived:</del>
-
-* ~~#algorithms~~
-* ~~#announcements~~
-* ~~#arcgis~~
-* ~~#cartography-designs~~
-* ~~#general~~
-* ~~#leafletjs~~
-* ~~#mapbox~~
-* ~~#n00bs~~
-* ~~#openstreetmap~~
-* ~~#remote-sensing~~
-* ~~#startups~~
-
-<del>Channel moderators can add @archivebot using /invite @archivebot or remove it by using /kick @archivebot.  Any edits after the initial message has posted to the channel will not be included.  Any messages deleted after the initial message has posted will still reside in the archive and the deletion will not be reflected.</del>
+The Spatial Community is currently on the free Slack tier with no plan to move to a paid team. This means that we are limited to 10,000 messages total, with private messages included in that count. Message archives are **not** retained, by either the admins, Slack team owners, or any third-party service.
 
 ----
 
