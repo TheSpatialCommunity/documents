@@ -91,7 +91,12 @@ Outside of slack, you can email thespatialcommunity@gmail.com; individual admin 
     * Twitter: [@sarasomewhere](https://twitter.com/sarasomewhere)
     * Github [sarasafavi](https://github.com/sarasafavi)
     * Email: sayhi@sarasafavi.com
-
+* **Kate Clark** (admin)
+    * Slack: @isostatic
+    * Twitter: [@isostaticrbnd](https://twitter.com/isostaticrbnd)
+    * Github [isostaticrbnd](https://github.com/isostaticrbnd)
+    * Email: kateanneclark@gmail.com
+    
 ----
 
 ## Changes
