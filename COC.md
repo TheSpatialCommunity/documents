@@ -96,6 +96,11 @@ Outside of slack, you can email thespatialcommunity@gmail.com; individual admin 
     * Twitter: [@isostaticrbnd](https://twitter.com/isostaticrbnd)
     * Github [isostaticrbnd](https://github.com/isostaticrbnd)
     * Email: kateanneclark@gmail.com
+* **Erik Friesen** (admin)
+    * Slack: @erikfriesen
+    * Twitter: [@erikfriesen](https://twitter.com/erikfriesen)
+    * Github [erikfriesen](https://github.com/erikfriesen)
+    * Email: erik.friesen@gmail.com
     
 ----
 
