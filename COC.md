@@ -1,7 +1,7 @@
 # The Spatial Community - Code of Conduct
 
 The Spatial Community
-Date Posted: 7/26/2016, Last Updated: 1/26/2017
+Date Posted: 7/26/2016, Last Updated: 3/17/2017
 
 _Version 1.06_
 
