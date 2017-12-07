@@ -1,9 +1,9 @@
 # The Spatial Community - Code of Conduct
 
 The Spatial Community
-Date Posted: 7/26/2016, Last Updated: 3/17/2017
+Date Posted: 7/26/2016, Last Updated: 12/7/2017
 
-_Version 1.06_
+_Version 1.07_
 
 ## Creating a Culture of Innovation
 We aspire to create a culture where people work joyfully, communicate openly about things that matter, and collaborate on projects. We would like our community to reflect the diversity of the wider community of geospatial and IT professionals. We want to foster diversity of all kinds-not just the classes protected in law. Diversity fosters innovation. Diverse teams are creative teams. We need a diversity of perspective to create solutions for the real and urgent challenges we face.
@@ -77,21 +77,9 @@ To get in touch with the admin team, you can send a Direct Message within Slack 
 Outside of slack, you can email thespatialcommunity@gmail.com; individual admin contact information is also listed below. 
 
 ### Current Admins:
-* **Daniel Smith** (admin)
-    * Slack: @robodonut
-    * Twitter: [@robodonut](https://twitter.com/robodonut)
-    * GitHub: [robodonut](https://github.com/robodonut)
-    * Email: danielelijahsmith@gmail.com
-* **Kyle Morgan** (admin)
-    * Slack: @gisdev-km
-    * Twitter: [@gisdev_km](https://twitter.com/gisdev_km)
-    * Github [gisdev-km](https://github.com/gisdev-km)
-    * Email: kyle.morgan@gmail.com
-* **Sara Safavi** (admin)
-    * Slack: @sara
-    * Twitter: [@sarasomewhere](https://twitter.com/sarasomewhere)
-    * Github [sarasafavi](https://github.com/sarasafavi)
-    * Email: sayhi@sarasafavi.com
+* **Martin Bentley**
+    * Slack: @mtb-za
+    * Github [mtb-za](https://github.com/mtb-za)
 * **Kate Clark** (admin)
     * Slack: @isostatic
     * Twitter: [@isostaticrbnd](https://twitter.com/isostaticrbnd)
@@ -102,7 +90,26 @@ Outside of slack, you can email thespatialcommunity@gmail.com; individual admin 
     * Twitter: [@erikfriesen](https://twitter.com/erikfriesen)
     * Github [erikfriesen](https://github.com/erikfriesen)
     * Email: erik.friesen@gmail.com
-    
+* **Sara Safavi** (admin)
+    * Slack: @sara
+    * Twitter: [@sarasomewhere](https://twitter.com/sarasomewhere)
+    * Github [sarasafavi](https://github.com/sarasafavi)
+    * Email: sayhi@sarasafavi.com
+* **Kathryn Killebrew**
+    * Slack: @kkillebrew
+    * Twitter: [@Banderkat](https://twitter.com/Banderkat)
+    * Github [flibbertigibbet](https://github.com/flibbertigibbet)
+    * Email: banderkat@gmail.com
+* **Richard Law**
+    * Slack: @alphabetasoup
+    * Twitter: [@@abetasoup](https://twitter.com/@abetasoup)
+    * Github [alpha-beta-soup](https://github.com/alpha-beta-soup)
+    * Email: richard.m.law@gmail.com
+* **Langdon Sanders**
+    * Slack: @langdon
+    * Twitter: [@LangdonGIS](https://twitter.com/LangdonGIS)
+    * Github [langdonms](https://github.com/langdonms)
+
 ----
 
 ## Changes
