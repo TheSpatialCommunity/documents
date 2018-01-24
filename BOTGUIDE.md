@@ -3,6 +3,7 @@
 There are a couple of special bots present in the Spatial Community that are worth knowing about. This is a short guide to using them.
 
 ## Call Admin
+author: @robodonut
 
 If you want to send a message to the admin team, use this command. It will let them know what channel you have sent it from, along with a message why we should be looking at things.
 
@@ -14,6 +15,7 @@ Usually we will drop in on the channel and see what is going on. Depending on th
 `/call_admin Please can you write a guide to bots?` which will send the admin team a message as follows: `user: joe_blow, channel: #random, message: Please can you write a guide to bots?`.
 
 ## PointsBot
+author: @robodonut
 
 This bot awards extremely valuable internet points to people. There is no real criteria as to what a valid reason for giving points is, but they are usually used to thank people for giving advice.
 
@@ -32,6 +34,7 @@ Awarding points to yourself is not allowed. Totals in excess of +-100 will be ca
 `/points @mtb-za 100 Brilliant guide to bots! Thanks!`
 
 ## Glob
+author: @alphabetasoup
 
 If you want to search through all the channel names for something, this is what you want to use. The syntax for the search query should be the same as the standard `*nix` tool `glob`. A summary can be found on [https://en.m.wikipedia.org/wiki/Glob_(programming)#Syntax](Wikipedia). Please let the admin team know if you are trying something that does not actually work as expected.
 
@@ -59,7 +62,7 @@ The command is invoked using `/glob {search pattern} {number}`.
     #arcgis-desktop –  (247 members)
 
 ## Poll
-
+author: slack(?)
 If you need a poll for some reason, this will allow you to create one. YOu can also make the poll anonymous, which will not show who has voted for which option.
 
 Invoke it using `/poll "{question}" "{option a}" "{option b}" "{so on}"`.
@@ -74,15 +77,15 @@ Invoke it using `/poll "{question}" "{option a}" "{option b}" "{so on}"`.
 
 There are a series of commands that take little interaction. Most of them simply post a meme and/or gif of some kind, and do not take any additional input. You simply use the command on the left, and it will display the link on the right.
 
-Command | Link
--------| -------------------------------------------------------
-`/wtf` | http://media1.giphy.com/media/aZ3LDBs1ExsE8/giphy.gif
-`/thisisfine` | http://gph.is/1IPoO7R
-`/sick_burn` | https://en.wikipedia.org/wiki/List_of_burn_centers_in_the_United_States
-`/neat` | https://i.imgur.com/iYOXpB3.gif
-`/badgers` | https://www.youtube.com/watch?v=gx6TBrfCW54&feature=youtu.be&t=16s
-`/believe` | https://youtu.be/YLO7tCdBVrA?t=2s
-`/iwritecode` | http://resguru.com/wp-content/uploads/2011/05/angry-keyboard-user.gif (currently broken)
-`/thumbsup` | https://imgur.com/uKL8tJg.gif
-`/trap` | https://img.memecdn.com/its-a-trap_o_491986.jpg
-`/deepthoughts` | Posts a random deep thought by Jack Handey. According to Wikipedia: "He is best known for his "Deep Thoughts by Jack Handey", a large body of surrealistic one-liner jokes, as well as his "Fuzzy Memories" and "My Big Thick Novel" shorts, and for his deadpan delivery."
+Command | Link | creator
+-------| -------------------------------------------------------| -----------------
+`/wtf` | http://media1.giphy.com/media/aZ3LDBs1ExsE8/giphy.gif | @robodonut
+`/thisisfine` | http://gph.is/1IPoO7R | @robodonut
+`/sick_burn` | https://en.wikipedia.org/wiki/List_of_burn_centers_in_the_United_States | @robodonut
+`/neat` | https://i.imgur.com/iYOXpB3.gif | @erikfriesen
+`/badgers` | https://www.youtube.com/watch?v=gx6TBrfCW54&feature=youtu.be&t=16s | @robodonut
+`/believe` | https://youtu.be/YLO7tCdBVrA?t=2s | @robodonut
+`/iwritecode` | http://resguru.com/wp-content/uploads/2011/05/angry-keyboard-user.gif (currently broken) | @robodonut
+`/thumbsup` | https://imgur.com/uKL8tJg.gif | @robodonut
+`/trap` | https://img.memecdn.com/its-a-trap_o_491986.jpg | @erikfriesen
+`/deepthoughts` | Posts a random deep thought by Jack Handey. According to Wikipedia: "He is best known for his "Deep Thoughts by Jack Handey", a large body of surrealistic one-liner jokes, as well as his "Fuzzy Memories" and "My Big Thick Novel" shorts, and for his deadpan delivery." | @robodonut
