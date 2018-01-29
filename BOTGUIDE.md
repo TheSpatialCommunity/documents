@@ -63,6 +63,7 @@ The command is invoked using `/glob {search pattern} {number}`.
 
 ## Poll
 author: slack(?)
+
 If you need a poll for some reason, this will allow you to create one. YOu can also make the poll anonymous, which will not show who has voted for which option.
 
 Invoke it using `/poll "{question}" "{option a}" "{option b}" "{so on}"`.
