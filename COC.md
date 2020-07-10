@@ -79,19 +79,19 @@ Outside of slack, you can email thespatialcommunity@gmail.com; individual admin 
 ### Current Admins:
 * **Francois Goulet**
     * Slack: @fgcarto
-    * Github [fgcarto](https://github.com/fgcarto)
+    * Github: [fgcarto](https://github.com/fgcarto)
 * **Madison Draper**
     * Slack: @mzd
-    * Github [mzdraper](https://github.com/mzdraper)
+    * Github: [mzdraper](https://github.com/mzdraper)
 * **Martin Bentley**
     * Slack: @mtb-za
-    * Github [mtb-za](https://github.com/mtb-za)
+    * Github: [mtb-za](https://github.com/mtb-za)
 * **Nick Santos**
     * Slack: @nickrsan
-    * Github [nickrsan](https://github.com/nickrsan)
+    * Github: [nickrsan](https://github.com/nickrsan)
 * **Ted Chapin**
     * Slack: @ted_chapin
-    * Github [tchapin](https://github.com/tchapin)
+    * Github: [tchapin](https://github.com/tchapin)
 
 ----
 
