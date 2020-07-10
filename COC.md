@@ -77,21 +77,21 @@ To get in touch with the admin team, you can send a Direct Message within Slack 
 Outside of slack, you can email thespatialcommunity@gmail.com; individual admin contact information is also listed below. 
 
 ### Current Admins:
-* **Martin Bentley**
-    * Slack: @mtb-za
-    * Github [mtb-za](https://github.com/mtb-za)
 * **Francois Goulet**
     * Slack: @fgcarto
     * Github [fgcarto](https://github.com/fgcarto)
 * **Madison Draper**
     * Slack: @mzd
     * Github [mzdraper](https://github.com/mzdraper)
-* **Ted Chapin**
-    * Slack: @ted_chapin
-    * Github [tchapin](https://github.com/tchapin)
+* **Martin Bentley**
+    * Slack: @mtb-za
+    * Github [mtb-za](https://github.com/mtb-za)
 * **Nick Santos**
     * Slack: @nickrsan
     * Github [nickrsan](https://github.com/nickrsan)
+* **Ted Chapin**
+    * Slack: @ted_chapin
+    * Github [tchapin](https://github.com/tchapin)
 
 ----
 
