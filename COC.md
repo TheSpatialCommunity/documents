@@ -1,7 +1,7 @@
 # The Spatial Community - Code of Conduct
 
 The Spatial Community
-Date Posted: 7/26/2016, Last Updated: 12/7/2017
+Date Posted: July 26, 2016, Last Updated: July 9, 2020 
 
 _Version 1.07_
 
@@ -77,38 +77,21 @@ To get in touch with the admin team, you can send a Direct Message within Slack 
 Outside of slack, you can email thespatialcommunity@gmail.com; individual admin contact information is also listed below. 
 
 ### Current Admins:
+* **Francois Goulet**
+    * Slack: @fgcarto
+    * Github [fgcarto](https://github.com/fgcarto)
+* **Madison Draper**
+    * Slack: @mzd
+    * Github [mzdraper](https://github.com/mzdraper)
 * **Martin Bentley**
     * Slack: @mtb-za
     * Github [mtb-za](https://github.com/mtb-za)
-* **Kate Clark** (admin)
-    * Slack: @isostatic
-    * Twitter: [@isostaticrbnd](https://twitter.com/isostaticrbnd)
-    * Github [isostaticrbnd](https://github.com/isostaticrbnd)
-    * Email: kateanneclark@gmail.com
-* **Erik Friesen** (admin)
-    * Slack: @erikfriesen
-    * Twitter: [@erikfriesen](https://twitter.com/erikfriesen)
-    * Github [erikfriesen](https://github.com/erikfriesen)
-    * Email: erik.friesen@gmail.com
-* **Sara Safavi** (admin)
-    * Slack: @sara
-    * Twitter: [@sarasomewhere](https://twitter.com/sarasomewhere)
-    * Github [sarasafavi](https://github.com/sarasafavi)
-    * Email: sayhi@sarasafavi.com
-* **Kathryn Killebrew**
-    * Slack: @kkillebrew
-    * Twitter: [@Banderkat](https://twitter.com/Banderkat)
-    * Github [flibbertigibbet](https://github.com/flibbertigibbet)
-    * Email: banderkat@gmail.com
-* **Richard Law**
-    * Slack: @alphabetasoup
-    * Twitter: [@@abetasoup](https://twitter.com/@abetasoup)
-    * Github [alpha-beta-soup](https://github.com/alpha-beta-soup)
-    * Email: richard.m.law@gmail.com
-* **Langdon Sanders**
-    * Slack: @langdon
-    * Twitter: [@LangdonGIS](https://twitter.com/LangdonGIS)
-    * Github [langdonms](https://github.com/langdonms)
+* **Nick Santos**
+    * Slack: @nickrsan
+    * Github [nickrsan](https://github.com/nickrsan)
+* **Ted Chapin**
+    * Slack: @ted_chapin
+    * Github [tchapin](https://github.com/tchapin)
 
 ----
 
