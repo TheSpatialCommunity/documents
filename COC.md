@@ -26,12 +26,17 @@ The Spatial Community is a different kind of place. There is a mix of hobbyists 
 ### Hard and fast rules
 * If you are affiliated with a company, and will be posting primarily as a representative of said company, be sure to include that in your profile in the "What I Do" section.
 * The broadcast messages @channel, @here, @group, or @everyone are intended for important issues only and should be used sparingly. To know the difference, please read more [here](https://get.slack.help/hc/en-us/articles/202009646-Making-announcements).
-* Regarding commercial promotion of yourself or your company, this is not a marketing forum or a source for new customers. Feel free to share your projects and events but refrain from using it from a sole marketing purpose.  The admins reserve the right to moderate your posts if it is abused.
 * The Admin team will not use your email address for marketing or promotion. Occasional community-related messages may be sent to inform you of events or other important matters. Your email will not be sold to or used by 3rd parties. Please note that your e-mail address is viewable by other members when they view your profile.
+* Direct messages are only for discussion between members that both members wish to keep private. Direct messages should never be used for promotions and solicitations - for example, do not send the same direct message to multiple members.
 
 ### Preferred behavior
 * Use an acceptable "safe for work" photo as your profile image. _(Seeing a wall of slack-assigned profile icons makes the conversation hard to follow and who is participating)_
 
+### Promotion of Yourself or Your Company
+* This is not a marketing forum or a source for new customers. Feel free to share your projects and events but refrain from using it from a sole marketing purpose.  The admins reserve the right to moderate your posts if it is abused.
+* We have a dedicated channel named `showcase` for promoting your own work or work you have a stake in. Promotions should not go in the `random` channel and should not be placed in other channels without first taking stock of the culture of the channel. Some channels allow users to post links to their own content - consider the existing content/culture of a channel before posting links to your own content.
+* Wherever you post content you are promoting, you must refrain from doing it so frequently that members of the channel might consider it spam.
+* If you have questions or concerns about how to share something you are promoting, or are looking for an exception to these rules, contact the admins in the `call-admin` channel
 
 ----
 
@@ -55,6 +60,13 @@ Create boundaries to your own behavior and consider how you can create safe spac
 
 If you are unsure if something is appropriate behavior, it probably isn't. Each person you interact with can define where that line is for them. Impact matters more than intent. Ensuring that your behavior does not have a negative impact is your responsibility. Problems happen when we assume that our way of thinking or behaving is the norm or ok with everyone. This is particularly problematic when we are in a position of power or privilege.
 
+### Political Discussions
+Political discussions are allowed in the community, but should be held only in one of our dedicated channels for politics. It is your responsibility to recognize if a conversation you are having in another channel has turned into a political discussion, and to continue the discussion in the politics channels rather than in the channel it started in.
+
+The community has two channels for political discussion: 1) `politics-serious` for serious discussion of political topics and 2) `politics-dumpster-fire` for venting, memes, etc. You may have serious discussions in `politics-dumpster-fire` as well, but others are allowed to respond with memes and non-serious responses there.
+
+Discussion in political channels should always remain respectful and obey other parts of this code of conduct. Remember the human on the other side of the discussion and be uplifting in discussions by default.
+
 ### Here are a few examples of unacceptable behavior:
 
 * Negative or offensive remarks based on the protected classes as listed in the [GSA Anti-harassment Policy](http://www.gsa.gov/portal/directive/d0/content/512516) of race, religion, color, sex (with or without sexual conduct and including pregnancy and sexual orientation involving transgender status/gender identity, and sex-stereotyping), national origin, age, disability (physical or mental), genetic information, sexual orientation, gender identity, parental status, marital status, and political affiliation as well as gender expression, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, or clothing. Consider that calling attention to differences can feel alienating.
@@ -72,7 +84,7 @@ If you are unsure if something is appropriate behavior, it probably isn't. Each 
 
 If you are being harassed, or witness any violation of this Code of Conduct, please let an admin know.
 
-To get in touch with the admin team, you can send a Direct Message within Slack to any/all of the Current Admins (listed below). You can also use the slack command `/call_admin <optional message here>` from any channel to send an immediate notification to the entire admin team. This command is private (visible to only you and the admin team).
+To get in touch with the admin team, you can send a Direct Message within Slack to any/all of the Current Admins (listed below). You can also use the slack command `/call_admin <optional message here>` from any channel to send an immediate notification to the entire admin team. This command is private (visible to only you and the admin team). You may also make a post in the `call-admin` channel in the community if you are OK discussing the topic in public.
 
 Outside of slack, you can email thespatialcommunity@gmail.com; individual admin contact information is also listed below. 
 
