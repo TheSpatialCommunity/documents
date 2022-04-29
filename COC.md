@@ -10,7 +10,7 @@ We aspire to create a culture where people work joyfully, communicate openly abo
 
 This is the Spatial Community's Code of Conduct. We expect everyone we work with to adhere to the [GSA Anti-harassment Policy](http://www.gsa.gov/portal/directive/d0/content/512516). Even though most community members and participants will not be employed by the General Services Administration, we feel this to be an exemplar of anti-harassment policy.
 
-We expect everyone who joins our Slack channel to follow this code of conduct and the laws and policies mentioned above. This applies to all of our methods of communication: the #general and #random channels, all topical channels, uploaded files, and private messages.
+We expect everyone who joins our Slack channel to follow this code of conduct and the laws and policies mentioned above. This applies to all of our methods of communication: the #general and #random channels, all topical channels, uploaded files, private channels, and direct messages.
 
 ----
 
@@ -27,16 +27,16 @@ The Spatial Community is a different kind of place. There is a mix of hobbyists 
 * If you are affiliated with a company, and will be posting primarily as a representative of said company, be sure to include that in your profile in the "What I Do" section.
 * The broadcast messages @channel, @here, @group, or @everyone are intended for important issues only and should be used sparingly. To know the difference, please read more [here](https://get.slack.help/hc/en-us/articles/202009646-Making-announcements).
 * The Admin team will not use your email address for marketing or promotion. Occasional community-related messages may be sent to inform you of events or other important matters. Your email will not be sold to or used by 3rd parties. Please note that your e-mail address is viewable by other members when they view your profile.
-* Direct messages are only for discussion between members that both members wish to keep private. Direct messages should never be used for promotions and solicitations - for example, do not send the same direct message to multiple members.
+* Direct messages are only for consensual discussions between members that both members wish to keep private. Direct messages should never be used for promotions or solicitations - for example, do not send the same direct message to multiple members.
 
 ### Preferred behavior
 * Use an acceptable "safe for work" photo as your profile image. _(Seeing a wall of slack-assigned profile icons makes the conversation hard to follow and who is participating)_
 
 ### Promotion of Yourself or Your Company
-* This is not a marketing forum or a source for new customers. Feel free to share your projects and events but refrain from using it from a sole marketing purpose.  The admins reserve the right to moderate your posts if it is abused.
-* We have a dedicated channel named `showcase` for promoting your own work or work you have a stake in. Promotions should not go in the `random` channel and should not be placed in other channels without first taking stock of the culture of the channel. Some channels allow users to post links to their own content - consider the existing content/culture of a channel before posting links to your own content.
-* Wherever you post content you are promoting, you must refrain from doing it so frequently that members of the channel might consider it spam.
-* If you have questions or concerns about how to share something you are promoting, or are looking for an exception to these rules, contact the admins in the `call-admin` channel
+* This is not a marketing forum or a source of new customers. Feel free to share your projects and events in the appripriate channels, but refrain from using it solely for a marketing purpose.  The admins reserve the right to moderate your posts for compliance with the code of conduct.
+* We have a dedicated channel named `#showcase` for promoting your own work or work you have a stake in. Promotions should not go in the `#random` channel and should not be placed in other channels without first taking stock of the culture of the channel. Some channels allow users to post links to their own content - consider the existing content/culture of a channel before posting links to your own content.
+* Wherever you post content you are promoting, you must refrain from doing it in a way that would be perceived as spam.
+* If you have questions or concerns about how to share something you are promoting, or are looking for an exception to these rules, contact the admins in the `#call-admin` channel
 
 ----
 
@@ -63,7 +63,7 @@ If you are unsure if something is appropriate behavior, it probably isn't. Each 
 ### Political Discussions
 Political discussions are allowed in the community, but should be held only in one of our dedicated channels for politics. It is your responsibility to recognize if a conversation you are having in another channel has turned into a political discussion, and to continue the discussion in the politics channels rather than in the channel it started in.
 
-The community has two channels for political discussion: 1) `politics-serious` for serious discussion of political topics and 2) `politics-dumpster-fire` for venting, memes, etc. You may have serious discussions in `politics-dumpster-fire` as well, but others are allowed to respond with memes and non-serious responses there.
+The community has two channels for political discussion: 1) `#politics-serious` for serious discussion of political topics and 2) `#politics-dumpster-fire` for venting, memes, etc. You may have serious discussions in `#politics-dumpster-fire` as well, but others are allowed to respond with memes and non-serious responses there.
 
 Discussion in political channels should always remain respectful and obey other parts of this code of conduct. Remember the human on the other side of the discussion and be uplifting in discussions by default.
 
@@ -77,6 +77,7 @@ Discussion in political channels should always remain respectful and obey other 
 * Referring to people in a way that misidentifies their gender and/or rejects the validity of their gender identity; for instance by using incorrect pronouns or forms of address (misgendering).
 * Retaliating against anyone who files a formal complaint that someone has violated these codes or laws.
 * Publishing others' private information, such as a physical or electronic address, without explicit permission
+* Unsolicited or repeated promotions, i.e., spam
 
 ----
 
@@ -84,7 +85,7 @@ Discussion in political channels should always remain respectful and obey other 
 
 If you are being harassed, or witness any violation of this Code of Conduct, please let an admin know.
 
-To get in touch with the admin team, you can send a Direct Message within Slack to any/all of the Current Admins (listed below). You can also use the slack command `/call_admin <optional message here>` from any channel to send an immediate notification to the entire admin team. This command is private (visible to only you and the admin team). You may also make a post in the `call-admin` channel in the community if you are OK discussing the topic in public.
+To get in touch with the admin team, you can send a Direct Message within Slack to any/all of the Current Admins (listed below). You can also use the slack command `/call_admin <optional message here>` from any channel to send an immediate notification to the entire admin team. This command is private (visible to only you and the admin team). You may also make a post in the `#call-admin` channel in the community if you are OK discussing the topic in public.
 
 Outside of slack, you can email thespatialcommunity@gmail.com; individual admin contact information is also listed below. 
 
