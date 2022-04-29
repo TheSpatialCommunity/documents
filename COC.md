@@ -33,7 +33,7 @@ The Spatial Community is a different kind of place. There is a mix of hobbyists 
 * Use an acceptable "safe for work" photo as your profile image. _(Seeing a wall of slack-assigned profile icons makes the conversation hard to follow and who is participating)_
 
 ### Promotion of Yourself or Your Company
-* This is not a marketing forum or a source of new customers. Feel free to share your projects and events in the appripriate channels, but refrain from using it solely for a marketing purpose.  The admins reserve the right to moderate your posts for compliance with the code of conduct.
+* This is not a marketing forum or a source of new customers. Feel free to share your projects and events in the appropriate channels, but refrain from using it solely for a marketing purpose.  The admins reserve the right to moderate your posts for compliance with the code of conduct.
 * We have a dedicated channel named `#showcase` for promoting your own work or work you have a stake in. Promotions should not go in the `#random` channel and should not be placed in other channels without first taking stock of the culture of the channel. Some channels allow users to post links to their own content - consider the existing content/culture of a channel before posting links to your own content.
 * Wherever you post content you are promoting, you must refrain from doing it in a way that would be perceived as spam.
 * If you have questions or concerns about how to share something you are promoting, or are looking for an exception to these rules, contact the admins in the `#call-admin` channel
