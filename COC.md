@@ -45,7 +45,7 @@ The Spatial Community is a different kind of place. There is a mix of hobbyists 
 We want to support the wide range of topics people might want to come here to discuss, but it's hard to balance that support with making The Spatial Community approachable. New channels can be created by anybody, but should generally only be created when a critical mass exists around a topic. Some short term topics like #esriuc_backchannel or #foss4g may warrant a temporary channel and will be created while timely and then retired.
 
 Over time, if a channel becomes quiet, the admins may archive the channel.
-When users create a channel they are designated as the moderator for that channel. As such, they are responsible for the channel and ensuring that it meets the guidelines put forth in this document. Should channel moderators have issues, they are encouraged to contact the Admin team, see **Reporting** below.
+When users create a channel they are the de facto moderator for that channel. As such, they are responsible for the channel and keeping discussions on-topic. Should channel moderators observe violations of the Code of Conduct, they are encouraged to contact the Admin team, see ## Reporting below.
 
 ----
 
