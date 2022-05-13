@@ -1,9 +1,9 @@
 # The Spatial Community - Code of Conduct
 
 The Spatial Community
-Date Posted: July 26, 2016, Last Updated: July 9, 2020 
+Date Posted: July 26, 2016, Last Updated: May 12, 2022
 
-_Version 1.07_
+_Version 1.08_
 
 ## Creating a Culture of Innovation
 We aspire to create a culture where people work joyfully, communicate openly about things that matter, and collaborate on projects. We would like our community to reflect the diversity of the wider community of geospatial and IT professionals. We want to foster diversity of all kinds-not just the classes protected in law. Diversity fosters innovation. Diverse teams are creative teams. We need a diversity of perspective to create solutions for the real and urgent challenges we face.
@@ -88,6 +88,13 @@ If you are being harassed, or witness any violation of this Code of Conduct, ple
 To get in touch with the admin team, you can send a Direct Message within Slack to any/all of the Current Admins (listed below). You can also use the slack command `/call_admin <optional message here>` from any channel to send an immediate notification to the entire admin team. This command is private (visible to only you and the admin team). You may also make a post in the `#call-admin` channel in the community if you are OK discussing the topic in public.
 
 Outside of slack, you can email thespatialcommunity@gmail.com; individual admin contact information is also listed below. 
+
+## Actions and Responses
+Violations of the code of conduct may result in any of the following:
+* A warning via direct message to inform the user about the violation
+* Deletion of the message(s) that violated the code of conduct
+* Permanent bans for repeated violations, harassment, or obvious and unrelated spam
+* Other actions that are appropriate and within the scope of the community and this code of conduct.
 
 ### Current Admins:
 * **Francois Goulet**
